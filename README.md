@@ -15,3 +15,5 @@ Components Required:-
 7. Two push switch buttons for Send the data i.e. uploading and another for reseting the counter
 
 LM393-IR sensors can be replaced by Ultrasonic Sensors for better coverage of range.Wi-fi module could be used instead of HC-05 with areas of high speed wi-fi access for direct updation of attendance to the database.
+
+Refer Arduino Connections.docx on the detailed connections and how to run the system.
